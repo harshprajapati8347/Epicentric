@@ -1,0 +1,41 @@
+export const eventCategories = [
+  "Arts",
+  "Business",
+  "Charity",
+  "Comedy",
+  "Community",
+  "Education",
+  "Family",
+  "Fashion",
+  "Film",
+  "Food & Drink",
+  "Health",
+  "Hobbies",
+  "Holiday",
+  "Home & Lifestyle",
+  "Music",
+  "Networking",
+  "Performing & Visual Arts",
+  "Religion",
+  "Science & Technology",
+  "Seasonal & Holiday",
+  "Sports & Fitness",
+  "Travel & Outdoor",
+];
+
+export const months = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "June",
+  "July",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
+
+export default eventCategories;
