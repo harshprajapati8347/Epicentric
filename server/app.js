@@ -22,6 +22,8 @@ app.use(
       "http://localhost:5173",
       "https://m.stripe.network",
       "http://127.0.0.1:5173",
+      "https://evntopia.vercel.app",
+      "https://epicentric.vercel.app",
     ],
     credentials: true,
   })

@@ -1,27 +1,18 @@
-### Phase: 1 Approx 
-#### Admin Role: 
-- Create Event with Predefined form with Verification upon submit. 
-- Form Details 
-- Event Submit Action 
-- Event post on Platform 
+### Evntopia - Event Management System
 
-## Follow this : To Start Project
+- Evntopia is a comprehensive Event Management System built from scratch using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, host, and manage events with ease. Attendees can browse events, purchase tickets, and participate in various activities. The platform is designed to streamline the entire event management process, from event creation to ticket sales, ensuring a seamless experience for both organizers and participants.
 
-1. Donwload & Install NodeJs from https://nodejs.org/en/download.
+## Features
 
-2. Clone this Repository using 
-`git clone https://github.com/harshprajapati8347/all-events-project`
+1. Event Creation & Hosting: Users can create and host events, set up event details, and manage attendees.
+2. Ticket Purchasing: Participants can easily buy tickets for any event using a secure and user-friendly interface.
+3. User Authentication: Secure login and registration system for event organizers and attendees.
+4. Responsive Design: Fully responsive UI, ensuring a smooth experience across all devices.
+5. Real-Time Updates: Live updates for event details and ticket availability.
 
-3. Go to Client Folder Frontend. 
-- `cd client`
-- npm install
-- npm start
-- Frontend: http://localhost:5173/
+## Tech Stack
 
-=> Open new Terminal then..
-
-4. Go to Server Folder Backend. 
-- `cd server`
-- npm install
-- npm start
-- backend: http://localhost:8080/
+- Frontend: React.js with Tailwind CSS for styling and Chakra UI Components
+- Backend: Node.js and Express.js
+- Database: MongoDB
+- Deployment: Backend on Render and Frontend on Vercel
