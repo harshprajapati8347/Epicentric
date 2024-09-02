@@ -61,7 +61,7 @@ export default function Navbar() {
                     className="text-2xl font-bold text-white cursor-pointer"
                     href="/"
                   >
-                    Epicentric
+                    Evntopia
                   </a>
                 </div>
                 <div className="hidden sm:ml-6 sm:block">
